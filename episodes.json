@@ -3,27 +3,11 @@
   "episodes": [
     {
       "id": "tut-0001",
-      "title": "Nitrox Basics: PPO₂ & MOD",
-      "duration_sec": 312,
-      "audio_url": "https://github.com/wrabaa/blackfinlab-content-/blob/main/tut-0001.mp3",
-      "pub_date": "2025-08-28",
+      "title": "Intro to Technical Diving",
+      "duration_sec": 180,
+      "audio_url": "https://github.com/wrabaa/blackfinlab-content-/raw/main/tut-0001.mp3",
+      "pub_date": "2025-08-29",
       "artwork": "atom"
-    },
-    {
-      "id": "tut-0002",
-      "title": "CNS vs OTU: What Really Matters",
-      "duration_sec": 498,
-      "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-      "pub_date": "2025-08-18",
-      "artwork": "brain.head.profile"
-    },
-    {
-      "id": "tut-0003",
-      "title": "Blending 101: Partial-Pressure",
-      "duration_sec": 624,
-      "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-      "pub_date": "2025-07-29",
-      "artwork": "aqi.medium"
     }
   ]
 }
