@@ -13,9 +13,17 @@
       "id": "tut-0002",
       "title": "Argy & Omnya - Aria",
       "duration_sec": 260,
-      "audio_url": "https://github.com/wrabaa/blackfinlab-content-/blob/main/tut-0003.mp3",
-      "pub_date": "2025-08-29",
+      "audio_url": "https://github.com/wrabaa/blackfinlab-content/raw/main/Argy%20%26%20Omnya%20.mp3",
+      "pub_date": "2025-08-30",
       "artwork": "music.note"
+    },
+    {
+      "id": "tut-0003",
+      "title": "Omiki x Sighterl",
+      "duration_sec": 245,
+      "audio_url": "https://github.com/wrabaa/blackfinlab-content/raw/main/Omiki%20x%20Sighterl.mp3",
+      "pub_date": "2025-08-30",
+      "artwork": "music.mic"
     }
   ]
 }
